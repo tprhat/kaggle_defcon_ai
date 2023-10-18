@@ -1,0 +1,270 @@
+people 0.85
+man 0.87
+woman 0.89
+person 0.85
+TV 0.87
+camera 0.89
+man 0.87
+people 0.85
+person 0.85
+photographer 0.85
+television 0.88
+woman 0.89
+people 0.85
+man 0.87
+woman 0.89
+person 0.85
+television 0.88
+TV 0.87
+camera 0.89
+photographer 0.85
+people man woman person camera 0.95
+people man woman person man 0.91
+people man woman person photographer 0.92
+people man woman person television 0.94
+people man woman person  0.91
+people man woman TV camera 0.97
+people man woman TV man 0.95
+people man woman TV photographer 0.95
+people man woman TV television 0.95
+people man woman TV  0.95
+people man woman camera man 0.95
+people man woman camera photographer 0.93
+people man woman camera television 0.97
+people man woman camera  0.95
+people man woman man photographer 0.92
+people man woman man television 0.94
+people man woman man  0.91
+people man woman photographer television 0.95
+people man woman photographer  0.91
+people man woman television  0.94
+people man person TV camera 0.96
+people man person TV man 0.93
+people man person TV photographer 0.94
+people man person TV television 0.94
+people man person TV  0.93
+people man person camera man 0.93
+people man person camera photographer 0.92
+people man person camera television 0.96
+people man person camera  0.94
+people man person man photographer 0.9
+people man person man television 0.93
+people man person photographer television 0.93
+people man person photographer  0.9
+people man person television  0.93
+people man TV camera man 0.94
+people man TV camera photographer 0.94
+people man TV camera television 0.95
+people man TV camera  0.95
+people man TV man photographer 0.93
+people man TV man television 0.93
+people man TV man  0.92
+people man TV photographer television 0.93
+people man TV photographer  0.93
+people man TV television  0.93
+people man camera man photographer 0.92
+people man camera man television 0.95
+people man camera man  0.92
+people man camera photographer television 0.94
+people man camera photographer  0.91
+people man camera television  0.95
+people man man photographer television 0.93
+people man man photographer  0.89
+people man man television  0.92
+people man photographer television  0.92
+people woman person TV camera 0.96
+people woman person TV man 0.95
+people woman person TV photographer 0.94
+people woman person TV television 0.94
+people woman person TV  0.94
+people woman person camera man 0.94
+people woman person camera photographer 0.92
+people woman person camera television 0.97
+people woman person camera  0.94
+people woman person man photographer 0.92
+people woman person man television 0.94
+people woman person man  0.91
+people woman person photographer television 0.94
+people woman person photographer  0.9
+people woman person television  0.93
+people woman TV camera man 0.95
+people woman TV camera photographer 0.94
+people woman TV camera television 0.96
+people woman TV camera  0.95
+people woman TV man photographer 0.95
+people woman TV man television 0.95
+people woman TV man  0.94
+people woman TV photographer television 0.93
+people woman TV photographer  0.93
+people woman TV television  0.93
+people woman camera man photographer 0.93
+people woman camera man television 0.96
+people woman camera man  0.93
+people woman camera photographer television 0.94
+people woman camera photographer  0.91
+people woman camera television  0.96
+people woman man photographer television 0.95
+people woman man photographer  0.92
+people woman man television  0.95
+people woman photographer television  0.92
+people person TV camera man 0.94
+people person TV camera photographer 0.93
+people person TV camera television 0.95
+people person TV camera  0.95
+people person TV man photographer 0.93
+people person TV man television 0.93
+people person TV man  0.92
+people person TV photographer television 0.93
+people person TV photographer  0.92
+people person TV television  0.92
+people person camera man photographer 0.92
+people person camera man television 0.95
+people person camera man  0.92
+people person camera photographer television 0.94
+people person camera photographer  0.91
+people person camera television  0.95
+people person man photographer television 0.93
+people person man photographer  0.9
+people person man television  0.93
+people person photographer television  0.92
+people TV camera man photographer 0.93
+people TV camera man television 0.94
+people TV camera man  0.93
+people TV camera photographer television 0.93
+people TV camera photographer  0.92
+people TV camera television  0.94
+people TV man photographer television 0.93
+people TV man photographer  0.92
+people TV man television  0.92
+people TV photographer television  0.91
+people camera man photographer television 0.93
+people camera man photographer  0.91
+people camera man television  0.94
+people camera photographer television  0.92
+people man photographer television  0.92
+man woman person TV camera 0.97
+man woman person TV man 0.94
+man woman person TV photographer 0.95
+man woman person TV television 0.95
+man woman person TV  0.95
+man woman person camera man 0.95
+man woman person camera photographer 0.93
+man woman person camera television 0.97
+man woman person camera  0.95
+man woman person man photographer 0.92
+man woman person man television 0.94
+man woman person man  0.9
+man woman person photographer television 0.95
+man woman person photographer  0.91
+man woman person television  0.94
+man woman TV camera man 0.96
+man woman TV camera photographer 0.96
+man woman TV camera television 0.97
+man woman TV camera  0.96
+man woman TV man photographer 0.95
+man woman TV man television 0.95
+man woman TV man  0.94
+man woman TV photographer television 0.95
+man woman TV photographer  0.95
+man woman TV television  0.94
+man woman camera man photographer 0.94
+man woman camera man television 0.97
+man woman camera man  0.94
+man woman camera photographer television 0.96
+man woman camera photographer  0.93
+man woman camera television  0.97
+man woman man photographer television 0.96
+man woman man photographer  0.92
+man woman man television  0.95
+man woman photographer television  0.94
+man person TV camera man 0.94
+man person TV camera photographer 0.94
+man person TV camera television 0.95
+man person TV camera  0.95
+man person TV man photographer 0.93
+man person TV man television 0.93
+man person TV man  0.93
+man person TV photographer television 0.94
+man person TV photographer  0.93
+man person TV television  0.93
+man person camera man photographer 0.92
+man person camera man television 0.95
+man person camera man  0.93
+man person camera photographer television 0.94
+man person camera photographer  0.92
+man person camera television  0.95
+man person man photographer television 0.94
+man person man photographer  0.9
+man person man television  0.93
+man person photographer television  0.93
+man TV camera man photographer 0.92
+man TV camera man television 0.93
+man TV camera man  0.91
+man TV camera photographer television 0.92
+man TV camera photographer  0.91
+man TV camera television  0.92
+man TV man photographer television 0.93
+man TV man photographer  0.92
+man TV man television  0.92
+man TV photographer television  0.91
+man camera man photographer television 0.93
+man camera man photographer  0.91
+man camera man television  0.93
+man camera photographer television  0.93
+man man photographer television  0.92
+woman person TV camera man 0.95
+woman person TV camera photographer 0.94
+woman person TV camera television 0.96
+woman person TV camera  0.95
+woman person TV man photographer 0.95
+woman person TV man television 0.94
+woman person TV man  0.94
+woman person TV photographer television 0.93
+woman person TV photographer  0.93
+woman person TV television  0.92
+woman person camera man photographer 0.93
+woman person camera man television 0.96
+woman person camera man  0.93
+woman person camera photographer television 0.94
+woman person camera photographer  0.91
+woman person camera television  0.96
+woman person man photographer television 0.94
+woman person man photographer  0.91
+woman person man television  0.94
+woman person photographer television  0.92
+woman TV camera man photographer 0.93
+woman TV camera man television 0.95
+woman TV camera man  0.93
+woman TV camera photographer television 0.93
+woman TV camera photographer  0.92
+woman TV camera television  0.93
+woman TV man photographer television 0.93
+woman TV man photographer  0.93
+woman TV man television  0.93
+woman TV photographer television  0.91
+woman camera man photographer television 0.94
+woman camera man photographer  0.91
+woman camera man television  0.94
+woman camera photographer television  0.92
+woman man photographer television  0.93
+person TV camera man photographer 0.93
+person TV camera man television 0.95
+person TV camera man  0.93
+person TV camera photographer television 0.94
+person TV camera photographer  0.93
+person TV camera television  0.94
+person TV man photographer television 0.93
+person TV man photographer  0.93
+person TV man television  0.92
+person TV photographer television  0.92
+person camera man photographer television 0.93
+person camera man photographer  0.91
+person camera man television  0.94
+person camera photographer television  0.93
+person man photographer television  0.93
+TV camera man photographer television 0.92
+TV camera man photographer  0.91
+TV camera man television  0.93
+TV camera photographer television  0.91
+TV man photographer television  0.91
+camera man photographer television  0.92
